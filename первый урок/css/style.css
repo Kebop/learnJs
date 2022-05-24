@@ -1,0 +1,22 @@
+
+
+body{
+    background-color: black;
+}
+
+.wrapper{
+    margin: 300px auto;
+    padding: 200px;
+    width: 500px;
+    height: 500px;
+    background-color: green;
+    box-sizing: border-box;
+}
+
+.box{
+    /* padding: 50px; */
+    width: 100px;
+    height: 100px;
+    border: 2px solid white;
+    border-radius: 25px;
+}
